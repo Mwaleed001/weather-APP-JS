@@ -1,2 +1,2 @@
 # weather-APP-JS
-This is weather app creating using HTML, CSS, JAVASCRIPT .
+working on it, soon it will be completed.
